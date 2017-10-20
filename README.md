@@ -18,7 +18,7 @@ Names | dtype | shape | How to calc when not given | Description
 Reference | double | (6) | Mean for each dimension | Reference position in [*x, xp, y, yp, z, p*]
 Min | double | (6) | Minimum for each dimension | Minumum for each dimension in [*x, xp, y, yp, z, p*]
 Max | double | (6) | Maximum for each dimension | Minumum for each dimension in [*x, xp, y, yp, z, p*]
-2. Momentum | double | (6, 6) | According to description, note that we remove the offset of each dimension to make it independen of the reference particle. | Second order momentum eg: <(x - <x>)(delta - <delta>)>
+|2. Momentum | double | (6, 6) | According to description, note that we remove the offset of each dimension to make it independen of the reference particle. | Second order momentum eg: <(x - <x>)(delta - <delta>)>
 s | double | (1) | NaN | Distance from beginning
 q | double | (1) | NaN | Total charge
 n particles | uint 64 | (1) | number of particles| Number of particles
