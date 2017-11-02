@@ -1,0 +1,123 @@
+/README Attribute: This standard is cool
+/openPMD Attribute: 1.0.0
+/openPMDextension Attribute: 1
+/software Attribute: hparticle_show.py V0.0.1
+/author Attribute: Marc Guetg marcg@slac.stanford.edu
+/date Attribute: 2017-10-30 23:59:59 -0800
+/timestamp Attribute: 0.0
+/000000/s Attribute: 0.2561900522905217
+/000000/ElementDescription Attribute: Dump
+/000000/ElementIndex Attribute: 23
+/000000/particle/charge Attribute: 2e-10
+/000000/particle/NumberOfParticles Attribute: 2
+/000000/particle/charge/offset Attribute: 0.3722380866597581
+/000000/particle/charge/max Attribute: 1.0051017225735766
+/000000/particle/charge/min Attribute: 0.9215124484492282
+/000000/particle/charge/unitConversion Attribute: 1.0
+/000000/particle/charge/unitDescription Attribute: Some SI unit
+/000000/particle/charge/unitSymbol Attribute: 
+/000000/particle/charge/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/px/offset Attribute: 0.6018454533569579
+/000000/particle/px/max Attribute: 1.571072682513817
+/000000/particle/px/min Attribute: 1.186675131543185
+/000000/particle/px/unitConversion Attribute: 1.0
+/000000/particle/px/unitDescription Attribute: Some SI unit
+/000000/particle/px/unitSymbol Attribute: 
+/000000/particle/px/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/py/offset Attribute: 0.4752491052521335
+/000000/particle/py/max Attribute: 0.8717155156889533
+/000000/particle/py/min Attribute: 0.7565549503519842
+/000000/particle/py/unitConversion Attribute: 1.0
+/000000/particle/py/unitDescription Attribute: Some SI unit
+/000000/particle/py/unitSymbol Attribute: 
+/000000/particle/py/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/pz/offset Attribute: 0.807724677467651
+/000000/particle/pz/max Attribute: 1.0763966571339076
+/000000/particle/pz/min Attribute: 0.9727931048288234
+/000000/particle/pz/unitConversion Attribute: 1.0
+/000000/particle/pz/unitDescription Attribute: Some SI unit
+/000000/particle/pz/unitSymbol Attribute: 
+/000000/particle/pz/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/species/valueMap Attribute: [b'electron' b'positron']
+/000000/particle/species/index Data set: <HDF5 dataset "index": shape (2,), type "|u1">
+/000000/particle/status/valueMap Attribute: [b'Alive' b'InValid']
+/000000/particle/status/index Data set: <HDF5 dataset "index": shape (2,), type "|u1">
+/000000/particle/t/offset Attribute: 0.18115632388969027
+/000000/particle/t/max Attribute: 0.6788713054680784
+/000000/particle/t/min Attribute: 0.4676236927138111
+/000000/particle/t/unitConversion Attribute: 1.0
+/000000/particle/t/unitDescription Attribute: Some SI unit
+/000000/particle/t/unitSymbol Attribute: 
+/000000/particle/t/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/x/offset Attribute: 0.4610808369926791
+/000000/particle/x/max Attribute: 1.0781784504541487
+/000000/particle/x/min Attribute: 1.0040811187400518
+/000000/particle/x/unitConversion Attribute: 1.0
+/000000/particle/x/unitDescription Attribute: Some SI unit
+/000000/particle/x/unitSymbol Attribute: 
+/000000/particle/x/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000000/particle/y/offset Attribute: 0.29803908496562026
+/000000/particle/y/max Attribute: 0.8467687889651317
+/000000/particle/y/min Attribute: 0.34570420828016746
+/000000/particle/y/unitConversion Attribute: 1.0
+/000000/particle/y/unitDescription Attribute: Some SI unit
+/000000/particle/y/unitSymbol Attribute: 
+/000000/particle/y/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/s Attribute: 0.2073657935733525
+/000001/ElementDescription Attribute: Dump
+/000001/ElementIndex Attribute: 23
+/000001/particle/charge Attribute: 2e-10
+/000001/particle/NumberOfParticles Attribute: 2
+/000001/particle/charge/offset Attribute: 0.04953027210713956
+/000001/particle/charge/max Attribute: 0.8177149310322884
+/000001/particle/charge/min Attribute: 0.4251647304682856
+/000001/particle/charge/unitConversion Attribute: 1.0
+/000001/particle/charge/unitDescription Attribute: Some SI unit
+/000001/particle/charge/unitSymbol Attribute: 
+/000001/particle/charge/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/px/offset Attribute: 0.06404928272826527
+/000001/particle/px/max Attribute: 0.5168637931924098
+/000001/particle/px/min Attribute: 0.10560164293287444
+/000001/particle/px/unitConversion Attribute: 1.0
+/000001/particle/px/unitDescription Attribute: Some SI unit
+/000001/particle/px/unitSymbol Attribute: 
+/000001/particle/px/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/py/offset Attribute: 0.6116183174963861
+/000001/particle/py/max Attribute: 1.1354027409220726
+/000001/particle/py/min Attribute: 1.0781093447007297
+/000001/particle/py/unitConversion Attribute: 1.0
+/000001/particle/py/unitDescription Attribute: Some SI unit
+/000001/particle/py/unitSymbol Attribute: 
+/000001/particle/py/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/pz/offset Attribute: 0.5519760354347686
+/000001/particle/pz/max Attribute: 1.2502634949510767
+/000001/particle/pz/min Attribute: 1.0656292011304829
+/000001/particle/pz/unitConversion Attribute: 1.0
+/000001/particle/pz/unitDescription Attribute: Some SI unit
+/000001/particle/pz/unitSymbol Attribute: 
+/000001/particle/pz/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/species/valueMap Attribute: [b'electron' b'positron']
+/000001/particle/species/index Data set: <HDF5 dataset "index": shape (2,), type "|u1">
+/000001/particle/status/valueMap Attribute: [b'Alive' b'InValid']
+/000001/particle/status/index Data set: <HDF5 dataset "index": shape (2,), type "|u1">
+/000001/particle/t/offset Attribute: 0.42608806580574177
+/000001/particle/t/max Attribute: 1.3920803763746457
+/000001/particle/t/min Attribute: 1.3010105761787267
+/000001/particle/t/unitConversion Attribute: 1.0
+/000001/particle/t/unitDescription Attribute: Some SI unit
+/000001/particle/t/unitSymbol Attribute: 
+/000001/particle/t/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/x/offset Attribute: 0.44294777572831445
+/000001/particle/x/max Attribute: 0.8825265822379625
+/000001/particle/x/min Attribute: 0.7093597024808908
+/000001/particle/x/unitConversion Attribute: 1.0
+/000001/particle/x/unitDescription Attribute: Some SI unit
+/000001/particle/x/unitSymbol Attribute: 
+/000001/particle/x/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
+/000001/particle/y/offset Attribute: 0.8902381633312303
+/000001/particle/y/max Attribute: 1.749792423271689
+/000001/particle/y/min Attribute: 1.582706623963348
+/000001/particle/y/unitConversion Attribute: 1.0
+/000001/particle/y/unitDescription Attribute: Some SI unit
+/000001/particle/y/unitSymbol Attribute: 
+/000001/particle/y/value Data set: <HDF5 dataset "value": shape (1, 2), type "<f8">
